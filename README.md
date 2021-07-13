@@ -9,6 +9,7 @@
 - СЕННЬОР НИЧЕГО НЕДЕЛАНИЯ!11
 - ПОСМОТРЕЛ АНИМЕ!!!
 - СКАТИЛСЯ!!!
+- НЕ МОГУ ЖИТЬ БЕЗ ДОНАТОВ: https://www.donationalerts.com/c/crazzzypeter
 
 <!--
 **crazzzypeter/crazzzypeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
