@@ -12,7 +12,7 @@
 - 💩 СКАТИЛСЯ!
 - 💸 НЕ МОГУ ЖИТЬ БЕЗ ДОНАТОВ: https://www.donationalerts.com/c/crazzzypeter
 
-### Так, нужны бабки, если есть интереная работа для меня, писать сюда: crazzzypeter@gmail.com 
+### Так, нужны бабки, если есть интересная работа для меня, писать сюда: crazzzypeter@gmail.com 
 
 <!--
 **crazzzypeter/crazzzypeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
