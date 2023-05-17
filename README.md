@@ -2,7 +2,7 @@
 
 ### Всем привет!
 
-✅ Автор наберающей популярность методологии [GDD](https://github.com/turborium/GDD) ✅
+✅ Автор набирающей популярность методологии [GDD](https://github.com/turborium/GDD) ✅
 
 ```
 BTC: 33CkSPoRNYuRvzb57wNU5LaEHFAUbHzvbC
