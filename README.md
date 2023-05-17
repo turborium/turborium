@@ -2,6 +2,8 @@
 
 ### Всем привет!
 
+✅ Автор наберающей популярность методологии [GDD](https://github.com/turborium/GDD) ✅
+
 ```
 BTC: 33CkSPoRNYuRvzb57wNU5LaEHFAUbHzvbC
 ETH: 0xD8c8373BB309314350c83E660D0A94C582481e71
