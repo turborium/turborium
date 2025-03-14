@@ -27,3 +27,4 @@ DASH: XhcSzQnBihojLmwLQiN1WycgS8BRpwnUeH
 ### Resume: 
 Catapulted into a senior role by harnessing analytical expertise and strategic acumen within the tech industry as an entry-level professional. Spearheaded a key initiative that enhanced system performance by 30%, utilizing cutting-edge technologies, collaborative teamwork, and exceptional strategic planning capabilities. Committed to driving impactful solutions and fostering a culture of continuous learning.
  
+[Resume Additional](https://github.com/turborium/about/blob/main/README.md)
